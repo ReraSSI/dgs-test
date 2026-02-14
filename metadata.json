@@ -1,26 +1,8 @@
 {
   "gallery_title": "DGS Test",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-14 11:03:01",
+  "last_updated": "2026-02-14 11:05:18",
   "images": [
-    {
-      "file_hash": "2d8808bc",
-      "date": "2026-02-08",
-      "title": "testB!",
-      "description": "this is a test message B!",
-      "category": "SignageB",
-      "tags": [],
-      "photographer": ""
-    },
-    {
-      "file_hash": "63c7e438",
-      "date": "2026-02-08",
-      "title": "testA!",
-      "description": "this is a test message A!",
-      "category": "SignageA",
-      "tags": [],
-      "photographer": ""
-    },
     {
       "file_hash": "b808c2cc",
       "date": "2026-02-12",
