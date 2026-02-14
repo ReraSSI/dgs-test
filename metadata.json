@@ -1,0 +1,46 @@
+{
+  "gallery_title": "DGS Test",
+  "gallery_description": "VRChat Dynamic Gallery",
+  "last_updated": "2026-02-14 10:34:32",
+  "images": [
+    {
+      "file_hash": "b808c2cc",
+      "date": "2026-02-12",
+      "title": "DGS Logo",
+      "description": "https://rera-c.booth.pm/items/7977918",
+      "category": "SignageA",
+      "tags": [
+        "ad"
+      ],
+      "photographer": "Rera*C"
+    },
+    {
+      "file_hash": "472dd806",
+      "date": "2026-02-12",
+      "title": "DGS test2",
+      "description": "",
+      "category": "SignageB",
+      "tags": [
+        "ad"
+      ],
+      "photographer": "Rera*C"
+    },
+    {
+      "file_hash": "46f8db71",
+      "date": "2026-02-12",
+      "title": "DGS test1",
+      "description": "",
+      "category": "SignageB",
+      "tags": [
+        "ad"
+      ],
+      "photographer": "Rera*C"
+    }
+  ],
+  "categories": [
+    "Uncategorized",
+    "SignageA",
+    "SignageB"
+  ],
+  "base_url": "https://ReraSSI.github.io/dgs-test"
+}
